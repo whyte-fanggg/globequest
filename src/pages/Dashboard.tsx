@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import { useState } from "react"
 import SearchBar from "../components/SearchBar"
 import CountryCard from "../components/CountryCard"
 import WeatherCard from "../components/WeatherCard"
